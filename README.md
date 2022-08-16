@@ -8,3 +8,14 @@ The proposed omnidirectional image quality assessment database and the annotatio
 
 ## Proposed Model
 TBC.
+
+
+## Citation
+```bibtex
+@inproceedings{fang2022aaai,
+title={Perceptual Quality Assessment of Omnidirectional Images},
+author={Fang, Yuming and Huang, Liping and Yan, Jiebin and Liu, Xuelin and Liu, Yang},
+booktitle={Thirty-Sixth AAAI Conference on Artificial Intelligence},
+pages={580-588},
+year={2022}
+}
