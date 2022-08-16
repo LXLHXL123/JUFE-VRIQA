@@ -46,11 +46,9 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E col: longitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F col: the eye fixation is valid (1) or invalid (0)<br>
 &nbsp; 4. mos.xls: mean opinion scores<br>
-| session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene | <br>
-| C_good   | 1_len3_bd_3.png | 3.533333333 | 0.498887652 | BD |	3 |	5s |	1 |	CreativePark |
 <table align="center">
-  <tr><th align="center">session</th><th align="center">imgName</th><th align="center">average</th><th align="center">average</th><th align="center">std</th><th align="center">distortionType</th><th align="center">level</th><th align="center">explorationTime</th><th align="center">startingPoint</th><th align="center">Scene</th></tr>
-  <tr><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td></tr>
+  <tr><th align="center">session</th><th align="center">imgName</th><th align="center">average</th><th align="center">std</th><th align="center">distortionType</th><th align="center">level</th><th align="center">explorationTime</th><th align="center">startingPoint</th><th align="center">Scene</th></tr>
+  <tr><td>C_good</td><td>1_len3_bd_3.png</td><td>3.533</td><td>0.499</td><td>BD</td><td>3</td><td>5s</td><td>1</td><td>CreativePark</td></tr>
   <tr><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
 </table>
 
