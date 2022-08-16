@@ -6,10 +6,11 @@ This repository contains the constructed omnidirectional image quality assessmen
 The proposed omnidirectional image quality assessment database and the annotations (MOS, HMD data) can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1DRDeEf3yWRKuzJ7_BT3GjA) (Password: jhsx) or [Google drive](https://drive.google.com/drive/folders/1ro9D6LOhpd-t6f_X0P5Rx5dkgF8fDJPS?usp=sharing).
 ### Catalog:
 ├─&nbsp;AAAI2022<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;ref //1.png~258.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;dis<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;HMData.zip<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;mos.xls
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;ref        // reference omnidirectional images, 1.png~258.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;dis        // distorted omnidirectional images, 1_len3_bd_3.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;HMData.zip // head/eye movement data<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;mos.xls    // mean opinion scores
+
 ## Proposed Model
 TBC.
 
