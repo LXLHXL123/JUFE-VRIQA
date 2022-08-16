@@ -48,7 +48,12 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp; 4. mos.xls: mean opinion scores<br>
 | session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene | <br>
 | C_good   | 1_len3_bd_3.png | 3.533333333 | 0.498887652 | BD |	3 |	5s |	1 |	CreativePark |
-
+<table align="center">
+  <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
+  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
+  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
+  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
+</table>
 
 ## Proposed Model
 TBC.
