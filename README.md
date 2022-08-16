@@ -23,8 +23,8 @@ The proposed omnidirectional image quality assessment database and the annotatio
 + **Explanation:**<br>
 &nbsp; 1. ref: 258 reference omnidirectional images <br>
 &nbsp; 2. dis: 1032 distorted omnidirectional images <br>
-&nbsp;&nbsp;&nbsp;&nbsp; ——Nameing rule: No.reference_No.lens_Dist-type_No.level.png<br>
-&nbsp;&nbsp;&nbsp;&nbsp; ——Distortion type: bd: brightness discontinuity, gb: gaussian blur, gn: gaussian noise, st: stitching<br> 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ——Nameing rule: No.reference_No.lens_Dist-type_No.level.png<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ——Distortion type: bd: brightness discontinuity, gb: gaussian blur, gn: gaussian noise, st: stitching<br> 
 &nbsp; 3. HMData: <br>
 &nbsp; 4. mos.xls: mean opinion scores
 ## Proposed Model
