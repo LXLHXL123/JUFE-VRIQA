@@ -49,10 +49,9 @@ The proposed omnidirectional image quality assessment database and the annotatio
 | session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene | <br>
 | C_good   | 1_len3_bd_3.png | 3.533333333 | 0.498887652 | BD |	3 |	5s |	1 |	CreativePark |
 <table align="center">
-  <tr><th align="center">Header A</th><th align="center">Header B</th><th align="center">Header C</th></tr>
-  <tr><td>Content a1</td><td>Content b1</td><td>Content c1</td></tr>
-  <tr><td>Content a2</td><td>Content b2</td><td>Content c2</td></tr>
-  <tr><td>Content a3</td><td>Content b3</td><td>Content c3</td></tr>
+  <tr><th align="center">session</th><th align="center">imgName</th><th align="center">average</th><th align="center">average</th><th align="center">std</th><th align="center">distortionType</th><th align="center">level</th><th align="center">explorationTime</th><th align="center">startingPoint</th><th align="center">Scene</th></tr>
+  <tr><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td><td>Content</td></tr>
+  <tr><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td><td>···</td></tr>
 </table>
 
 ## Proposed Model
