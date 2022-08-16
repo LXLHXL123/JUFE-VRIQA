@@ -46,7 +46,7 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E col: longitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F col: the eye fixation is valid (1) or invalid (0)<br>
 &nbsp; 4. mos.xls: mean opinion scores<br>
-| session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene |
+| session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene | <br>
 | C_good   | 1_len3_bd_3.png | 3.533333333 | 0.498887652 | BD |	3 |	5s |	1 |	CreativePark |
 
 
