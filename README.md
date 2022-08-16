@@ -21,10 +21,12 @@ The proposed omnidirectional image quality assessment database and the annotatio
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;D<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;mos.xls    &nbsp;&nbsp;&nbsp;&nbsp;// mean opinion scores
 + **Explanation:**<br>
-&nbsp; * ref: 258 reference omnidirectional images <br>
-&nbsp; * dis: 1032 distorted omnidirectional images <br>
-&nbsp; HMData: <br>
-&nbsp; mos.xls: mean opinion scores
+&nbsp; 1. ref: 258 reference omnidirectional images <br>
+&nbsp; 2. dis: 1032 distorted omnidirectional images <br>
+&nbsp;&nbsp;&nbsp; ——Nameing rule: No.reference_No.lens_dist-type_No.level.png
+&nbsp;&nbsp;&nbsp; ——Distortion type: bd: brightness discontinuity, gb: gaussian blur, gn: gaussian noise, st: stitching 
+&nbsp; 3. HMData: <br>
+&nbsp; 4. mos.xls: mean opinion scores
 ## Proposed Model
 TBC.
 
