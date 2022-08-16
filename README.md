@@ -4,7 +4,7 @@ This repository contains the constructed omnidirectional image quality assessmen
 
 ## VR IQA Database
 The proposed omnidirectional image quality assessment database and the annotations (MOS, HMD data) can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1DRDeEf3yWRKuzJ7_BT3GjA) (Password: jhsx) or [Google drive](https://drive.google.com/drive/folders/1ro9D6LOhpd-t6f_X0P5Rx5dkgF8fDJPS?usp=sharing).
-+ Catalog:
++ **Catalog:**<br>
 ├─&nbsp;AAAI2022<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;ref        &nbsp;&nbsp;&nbsp;&nbsp;// reference omnidirectional images, 1.png~258.png<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;dis        &nbsp;&nbsp;&nbsp;&nbsp;// distorted omnidirectional images, 1_len3_bd_3.png<br>
@@ -20,7 +20,7 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;C<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;D<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;mos.xls    &nbsp;&nbsp;&nbsp;&nbsp;// mean opinion scores
-### (2) Explanation:
++ **Explanation:**
 
 ## Proposed Model
 TBC.
