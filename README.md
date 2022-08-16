@@ -5,7 +5,7 @@ This repository contains the constructed omnidirectional image quality assessmen
 ## VR IQA Database
 The proposed omnidirectional image quality assessment database and the annotations (MOS, HMD data) can be downloaded at the [Baiduyun](https://pan.baidu.com/s/1DRDeEf3yWRKuzJ7_BT3GjA) (Password: jhsx) or [Google drive](https://drive.google.com/drive/folders/1ro9D6LOhpd-t6f_X0P5Rx5dkgF8fDJPS?usp=sharing).
 ### Catalog:
-├─&nbsp;AAAI2022
+├─&nbsp;AAAI2022<br>
 ├─&nbsp;ref
 
 ## Proposed Model
