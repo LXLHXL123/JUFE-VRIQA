@@ -45,7 +45,7 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; D col: latitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E col: longitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F col: the eye fixation is valid (1) or invalid (0)<br>
-&nbsp; 4. mos.xls: mean opinion scores
+&nbsp; 4. mos.xls: mean opinion scores<br>
 First Header  | Second Header
 ------------- | -------------
 Content Cell  | Content Cell Line 1
