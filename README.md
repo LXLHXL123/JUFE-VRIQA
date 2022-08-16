@@ -46,11 +46,9 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E col: longitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F col: the eye fixation is valid (1) or invalid (0)<br>
 &nbsp; 4. mos.xls: mean opinion scores<br>
-First Header  | Second Header
-------------- | -------------
-Content Cell  | Content Cell Line 1
-Content Cell  | Content Cell Line 2
-Content Cell  | Content Cell Line 3
+| session  | imgName | average | std | distortionType | level | explorationTime | startingPoint | Scene |
+| C_good   | 1_len3_bd_3.png | 3.533333333 | 0.498887652 | BD |	3 |	5s |	1 |	CreativePark |
+
 
 ## Proposed Model
 TBC.
