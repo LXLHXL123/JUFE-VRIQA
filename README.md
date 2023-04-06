@@ -20,6 +20,7 @@ The proposed omnidirectional image quality assessment database and the annotatio
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─&nbsp;C &nbsp;&nbsp;&nbsp;// session<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;D &nbsp;&nbsp;&nbsp;// session<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;mos.xls    &nbsp;&nbsp;&nbsp;&nbsp;// mean opinion scores
+│&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└─&nbsp;startpoint.xls    &nbsp;&nbsp;&nbsp;&nbsp;// startpoints
 + **Explanation:**<br>
 &nbsp; 1. ref: 258 reference omnidirectional images <br>
 &nbsp; 2. dis: 1032 distorted omnidirectional images <br>
@@ -46,6 +47,7 @@ The proposed omnidirectional image quality assessment database and the annotatio
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; E col: longitude<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; F col: the eye fixation is valid (1) or invalid (0)<br>
 &nbsp; 4. mos.xls: mean opinion scores<br>
+&nbsp; 5. startpoint.xls: startpoints<br>
 <table align="center">
   <tr><th align="center">session</th><th align="center">imgName</th><th align="center">average</th><th align="center">std</th><th align="center">distortionType</th><th align="center">level</th><th align="center">explorationTime</th><th align="center">startingPoint</th><th align="center">Scene</th></tr>
   <tr align="center"><td>C_good</td><td>1_len3_bd_3.png</td><td>3.533</td><td>0.499</td><td>BD</td><td>3</td><td>5s</td><td>1</td><td>CreativePark</td></tr>
