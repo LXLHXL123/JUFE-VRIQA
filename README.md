@@ -68,3 +68,12 @@ booktitle={Thirty-Sixth AAAI Conference on Artificial Intelligence},
 pages={580-588},
 year={2022}
 }
+@article{liu2024tomm,
+title={Perceptual Quality Assessment of Omnidirectional Images: A Benchmark and Computational Model},
+author={Liu, Xuelin and Yan, Jiebin and Huang, Liping and Fang, Yuming and Wan, Zheng and Liu, Yang},
+journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+year={2024}
+}
+
+
+
