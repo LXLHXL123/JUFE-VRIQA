@@ -74,6 +74,3 @@ author={Liu, Xuelin and Yan, Jiebin and Huang, Liping and Fang, Yuming and Wan, 
 journal={ACM Transactions on Multimedia Computing, Communications and Applications},
 year={2024}
 }
-
-
-
